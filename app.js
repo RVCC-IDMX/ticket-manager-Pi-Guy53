@@ -24,3 +24,10 @@ log(chalk.green.bgWhite.bold('Whats going one?'));
 // hex & RGB
 log(chalk.hex('#009879').bold('green hex'));
 log(chalk.rgb(20, 200, 50).bold('probably green'));
+
+// Testing
+const test = chalk.hex('#ff0000');
+const error = chalk.yellow.bgRed.underline;
+
+log(test('custom'));
+log(error('a warning message'));
