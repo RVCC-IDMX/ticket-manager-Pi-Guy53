@@ -1,5 +1,4 @@
 # Ticket Manager
-## .js
 
 This is a ticket management system used to manage the sale and distribution of tickets.
 running ```node index.js``` will run the output of this program in a colored readable format.
