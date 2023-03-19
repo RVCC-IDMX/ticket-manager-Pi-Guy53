@@ -1,0 +1,20 @@
+{
+  "name": "ticket-manager-pi-guy53",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/ticket-manager-Pi-Guy53.git"
+  },
+  "keywords": [],
+  "author": "Mihail Vaporakis <g00277963@stu.raritanval.edu> (https://github.com/Pi-Guy53)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/ticket-manager-Pi-Guy53/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/ticket-manager-Pi-Guy53#readme"
+}
