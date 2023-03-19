@@ -42,6 +42,6 @@ log(output(`We now have: ${ticketManager.listenerCount('buy')} listener(s) for t
 ticketManager.buy('test@email', 20);
 
 ticketManager.removeAllListeners('buy');
-log(output(`We have ${ticketManager.listenerCount('buy')} listeners for the buy event`));
+log(output(`\n We have ${ticketManager.listenerCount('buy')} listeners for the buy event`));
 ticketManager.buy('test@email', 20);
 log(info('The last ticket was bought'));
